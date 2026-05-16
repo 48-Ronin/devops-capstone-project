@@ -1,4 +1,10 @@
-**As a** [role]  
+---
+name: User Story
+about: A user story for the project
+title: ''
+labels: ''
+assignees: ''
+---**As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
       
