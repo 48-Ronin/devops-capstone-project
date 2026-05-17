@@ -36,7 +36,7 @@ spec:
             secretKeyRef:
               key: database-user
               name: postgresql
-        image: us.icr.io/sn-labs-kennethburne/accounts:1
+        - image: IMAGE_NAME_HERE
         name: accounts
         resources: {}
 status: {}
